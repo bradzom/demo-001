@@ -1,5 +1,6 @@
-1.Make a list of tests
+1. Make a list of tests
 2. Write code to pass test
 3. Submit to assignment
 4. This is the update
+5. Nikaan is the best!
 
