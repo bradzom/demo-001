@@ -1,0 +1,4 @@
+1.Make a list of tests
+2. Write code to pass test
+3. Submit to assignment
+
